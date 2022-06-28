@@ -1,6 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@tsconfig/next': ^1.0.2
   '@types/node': 18.0.0
   '@types/react': 18.0.14
   '@types/react-dom': 18.0.5
@@ -17,6 +18,7 @@ dependencies:
   react-dom: 18.2.0_react@18.2.0
 
 devDependencies:
+  '@tsconfig/next': 1.0.2
   '@types/node': 18.0.0
   '@types/react': 18.0.14
   '@types/react-dom': 18.0.5
@@ -230,6 +232,10 @@ packages:
     dependencies:
       tslib: 2.4.0
     dev: false
+
+  /@tsconfig/next/1.0.2:
+    resolution: {integrity: sha512-8/iOg2XM5hZqs6+2asWLv04vzZ8eue7xe/ZWvLZD1cTSpulkTZLFKP+WEDzHGEZYeWpR+JlStWBZZJ7SL4a6pA==}
+    dev: true
 
   /@types/json5/0.0.29:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
